@@ -3,6 +3,10 @@
 ## About
 Our mission is to provide an inclusive environment for underrepresented persons in data science, machine learning and artificial intelligence.
 
+## Contact
+
+data.umbrella.dei @ gmail.com
+
 
 ## Logos
 
