@@ -10,7 +10,7 @@ data.umbrella.dei @ gmail.com
 
 ## Logos
 
-Full transparent logo:  
+Full transparent logo (size: 45 KB):  
 https://github.com/data-umbrella/info/blob/master/logos/data-umbr-full-transp-logo.png
 
 
