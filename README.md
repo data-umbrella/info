@@ -20,6 +20,7 @@ Background image:
 https://github.com/data-umbrella/info/blob/master/images/du-background-img.jpg
 
 ## Social Links
+Linktree:  https://linktr.ee/dataumbrella
 
 Website:  https://www.dataumbrella.org
 
@@ -31,7 +32,9 @@ Twitter:  https://twitter.com/DataUmbrella
 
 YouTube:  https://www.youtube.com/c/dataumbrella
 
-Blog (Newsletters): https://dataumbrella.substack.com/
+Newsletters: https://dataumbrella.substack.com/
+
+Blog:  https://blog.dataumbrella.org
 
 LinkedIn:  www.linkedin.com/company/dataumbrella/
 
