@@ -10,8 +10,21 @@ data.umbrella.dei @ gmail.com
 
 ## Logos
 
-Full transparent logo (size: 45 KB):  
+### Full transparent logo (size: 45 KB):  
 https://github.com/data-umbrella/info/blob/master/logos/data-umbr-full-transp-logo.png
+
+<p float="left">
+ <a href="https://www.dataumbrella.org" target="_blank"> <img src="logos/data-umbr-full-transp-logo.png" height="40%" width="40%" /> </a>
+  <img  width="150" />
+</p>
+
+### Logo with white background (size: 21 KB)
+https://github.com/data-umbrella/info/blob/master/logos/umbrella_only_white_background.png
+
+<p float="left">
+ <a href="https://www.dataumbrella.org" target="_blank"> <img src="logos/umbrella_only_white_background.png" height="40%" width="40%" /> </a>
+  <img  width="150" />
+</p>
 
 
 ## Images
