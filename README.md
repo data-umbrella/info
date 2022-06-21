@@ -9,7 +9,7 @@ https://www.dataumbrella.org
 
 ## Contact
 
-data.umbrella.dei @ gmail.com
+info@dataumbrella.org
 
 
 ## Logos
