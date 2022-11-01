@@ -2,7 +2,7 @@
 
 1. Logos (options)
     - [Data Umbrella logo (transparent background)](https://github.com/data-umbrella/info/blob/master/logos/data-umbr-full-transp-logo.png)  
-    - [Data Umbrella logo (white background)] (
+    - [Data Umbrella logo (white background)](https://github.com/data-umbrella/info/blob/master/logos/du-allwhite-bkgrd.jpg)
 
 
 2.  Link to include  
