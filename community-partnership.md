@@ -1,4 +1,4 @@
-# Community Partnership
+# Data Umbrella: Community Partnership Info
 
 1. Logos (options)
     - [Data Umbrella logo (transparent background)](https://github.com/data-umbrella/info/blob/master/logos/data-umbr-full-transp-logo.png)  
