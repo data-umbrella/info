@@ -54,19 +54,21 @@ Data Umbrella Meetup Group:  https://www.meetup.com/nyc-data-umbrella/
 
 Data Umbrella Africa Meetup Group:  https://www.meetup.com/data-umbrella-africa2/
 
-Twitter:  https://twitter.com/DataUmbrella
-
 YouTube:  https://www.youtube.com/c/dataumbrella
+
+LinkedIn:  https://www.linkedin.com/company/dataumbrella/
+
+Twitter:  https://twitter.com/DataUmbrella
 
 Newsletters: https://dataumbrella.substack.com/
 
 Blog:  https://blog.dataumbrella.org
 
-LinkedIn:  https://www.linkedin.com/company/dataumbrella/
-
 GitHub:  https://github.com/data-umbrella
 
-Discord:  https://discord.gg/mEzEbYT
+Discord:  https://discord.gg/ 
+
+Instagram: https://www.instagram.com/data.umbrella/
 
 Facebook:  https://www.facebook.com/data.umbrella.dei
 
@@ -74,4 +76,10 @@ Open Collective:  https://opencollective.com/data-umbrella
 
 dev.to:  https://dev.to/data_umbrella
 
+## Projects
 
+Event Board:  https://events.dataumbrella.org/
+
+PyLadies Dashboard: https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html
+
+PyMC Open Source Sprints: https://pymc-data-umbrella.xyz/
