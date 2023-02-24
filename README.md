@@ -19,7 +19,7 @@ https://github.com/data-umbrella/info/blob/master/du-logos/data-umbr-full-transp
 
 <p float="left">
  <a href="https://www.dataumbrella.org" target="_blank"> <img src="du-logos/data-umbr-full-transp-logo.png" height="40%" width="40%" /> </a>
-  <img  width="150" />
+  <img  width="50" />
 </p>
 
 
@@ -28,7 +28,7 @@ https://github.com/data-umbrella/info/blob/master/du-logos/du-allwhite-bkgrd.jpg
 
 <p float="left">
  <a href="https://www.dataumbrella.org" target="_blank"> <img src="du-logos/du-allwhite-bkgrd.jpg" height="40%" width="40%" /> </a>
-  <img  width="150" />
+  <img  width="50" />
 </p>
 
 ### 3) Logo with white background (size: 21 KB)
@@ -36,14 +36,15 @@ https://github.com/data-umbrella/info/blob/master/du-logos/umbrella_only_white_b
 
 <p float="left">
  <a href="https://www.dataumbrella.org" target="_blank"> <img src="du-logos/umbrella_only_white_background.png" height="40%" width="40%" /> </a>
-  <img  width="150" />
-</p>
 
+</p>
 
 ## Images
 
 Background image:  
 https://github.com/data-umbrella/info/blob/master/images/du-background-img.jpg
+
+---
 
 ## Social Links
 Linktree:  https://linktr.ee/dataumbrella
