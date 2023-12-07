@@ -4,7 +4,7 @@
 
 # Comment to be posted to on first time issues
 newIssueWelcomeComment: >
-  [![Welcome Banner](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:8ff47a85-7250-4d86-8e48-2f346b48b2c1:BannerWelcome.jpg/full/750,/0/default.jpg)](https://zenodo.org/record/3695300)
+  ![Welcome Banner](../images/welcome-bot/BannerWelcome.jpg)]
 
   :tada: Welcome to _Data Umbrella_! :tada:
   We're really excited to have your input into the project! :sparkling_heart:
@@ -27,7 +27,7 @@ newPRWelcomeComment: >
 
 # Comment to be posted to on pull requests merged by a first time user
 firstPRMergeComment: >
-  [![Congratulations Banner](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:32fbdb89-ae1b-434e-830c-88ade86724cc:BannerCongratulations.jpg/full/750,/0/default.jpg)](https://zenodo.org/record/3695300)
+  ![Congratulations Banner](../images/welcome-bot/BannerCongratulations.jpg)]
 
   Congrats on merging your first pull request! :tada:
   We here at _Data Umbrella_ are proud of you! :sparkling_heart:
