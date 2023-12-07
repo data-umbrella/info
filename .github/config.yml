@@ -16,7 +16,7 @@ newIssueWelcomeComment: >
 
 # Comment to be posted to on PRs from first time contributors in your repository
 newPRWelcomeComment: >
-  [![Thank You Banner](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:7fbd97cf-283b-480c-b8e1-11866e26245c:BannerThanks.jpg/full/750,/0/default.jpg)](https://zenodo.org/record/3695300)
+  ![Thank You Banner](../images/welcome-bot/BannerThanks.jpg)]
 
   :sparkling_heart: Thanks for opening this pull request! :sparkling_heart:
   _Data Umbrella_ community really appreciates your time and effort to contribute to the project.
